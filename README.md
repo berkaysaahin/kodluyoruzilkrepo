@@ -9,7 +9,6 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 
 ```
 git clone https://github.com/berkaysaahin/kodluyoruzilkrepo.git
-
 ```
 
 # Usage
@@ -21,7 +20,6 @@ Linux için:
 ```
 cd kodluyoruzilkrepo
 code .
-
 ```
 
 # Contributing
